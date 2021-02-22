@@ -2,7 +2,7 @@
 Based on Edgecase's fantastic 
 [Ruby koans](http://github.com/edgecase/ruby_koans), the goal of the
 Javascript koans is to teach you Javascript programming through
-testing.
+testing..
 
 When you first run the koans, you'll be presented with a runtime error and a
 stack trace indicating where the error occurred. Your goal is to make the
